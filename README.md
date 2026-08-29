@@ -1,0 +1,1 @@
+Developed a robot equipped with IR sensors and programmed in Assembly language on an Arduino Nano microcontroller to detect and follow a black line on the ground. The IR sensors detect the difference between the black line and the surrounding surface, allowing the robot to adjust its direction and stay on track.
